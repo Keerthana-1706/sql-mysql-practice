@@ -11,4 +11,4 @@ This repository contains MySQL queries and database practice.
 - Subqueries
 
 ## Goal
-To build strong SQL skills for backend development and technical interviews.
+To build strong SQL skills for backend development.
