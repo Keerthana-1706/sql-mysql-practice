@@ -1,2 +1,14 @@
-# sql-mysql-practice
-MySQL practice repository covering basic queries, joins, subqueries, and database concepts for backend.
+# MySQL Practice
+
+This repository contains MySQL queries and database practice.
+
+## Topics Covered
+- Database and Table Creation
+- Basic Queries
+- Filtering and Sorting
+- Joins
+- Aggregate Functions
+- Subqueries
+
+## Goal
+To build strong SQL skills for backend development and technical interviews.
