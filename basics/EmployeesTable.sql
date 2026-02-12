@@ -13,9 +13,9 @@ CREATE TABLE employees (
  );
 
 -- Insert employee records
- INSERT INTO employees VALUES (1, 'Alex', 35000, 'IT');
- INSERT INTO employees VALUES (2, 'Bob' , 30000, 'HR');
- INSERT INTO employees VALUES (3, 'Chloe', 30000, 'Finance');
+ INSERT INTO employees VALUES (101, 'Alex', 35000, 'IT');
+ INSERT INTO employees VALUES (102, 'Bob' , 30000, 'HR');
+ INSERT INTO employees VALUES (103, 'Chloe', 30000, 'Finance');
 
 -- Retrieve data
  SELECT * FROM employees;
