@@ -32,3 +32,10 @@ GROUP BY department;
 SELECT department, COUNT(*) AS employee_count
 FROM employees
 GROUP BY department;
+
+-- Department with highest average salary
+SELECT department, AVG(salary) AS avg_salary
+FROM employees
+GROUP BY department
+ORDER BY avg_salary DESC
+LIMIT 1;
